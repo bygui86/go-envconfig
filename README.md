@@ -1,7 +1,17 @@
 
-# Go envconfig sample project
+# Go env-var sample project
 
 ## Intructions
+
+### viper
+
+`TODO`
+
+### gonfig
+
+`TODO`
+
+### envconfig
 
 1. Export some environment variables
 
@@ -43,4 +53,12 @@
 
 ## Links
 
+### Articles
+
+* https://medium.com/@felipedutratine/best-practices-for-configuration-file-in-your-code-2d6add3f4b86
+
+### Techs
+
+* https://github.com/spf13/viper
+* https://github.com/tkanos/gonfig
 * https://github.com/kelseyhightower/envconfig
