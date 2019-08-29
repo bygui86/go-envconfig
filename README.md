@@ -5,7 +5,18 @@
 
 ### viper
 
-`TODO`
+1. Run
+
+	```
+	go run viper/main.go
+	```
+
+2. Results should be like following
+
+	```
+	Config file loaded
+	config1: value1
+	```
 
 ### gonfig
 
@@ -28,7 +39,7 @@
 2. Run
 
 	```
-	go run main.go
+	go run envconfig/main.go
 	```
 
 3. Results should be like following
